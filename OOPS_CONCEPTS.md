@@ -355,7 +355,7 @@ Encapsulation is the process of combining data and functions into a single unit 
 
 
 # Abstraction 
-We try to obtain an abstract view, model or structure of a real life problem, and reduce its unnecessary details. With definition of properties of problems, including the data which are affected and the operations which are identified, the model abstracted from problems can be a standard solution to this type of problems. It is an efficient way since there are nebulous real-life problems that have similar properties. In simple terms, it is hiding the unnecessary details & showing only the essential parts/functionalities to the user.
+Abstraction is a process of hiding the implementation details and showing only functionality to the user.Another way, it shows only essential things to the user and hides the internal details, for example, sending SMS where you type the text and send the message. You don't know the internal processing about the message delivery.
 
 ## Data binding :
 Data binding is a process of binding the application UI and business logic. Any change made in the business logic will reflect directly to the application UI. 
